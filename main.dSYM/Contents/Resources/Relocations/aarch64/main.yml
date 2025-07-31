@@ -1,0 +1,21 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hello./Desktop/cpplearn/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z23disable_input_bufferingv, symObjAddr: 0x0, symBinAddr: 0x100002F74, symSize: 0x98 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _memory, symObjAddr: 0x37C0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x7C, offset: 0x7C, size: 0x8, addend: 0x0, symName: _reg, symObjAddr: 0x237C0, symBinAddr: 0x100028000, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: _original_tio, symObjAddr: 0x237D8, symBinAddr: 0x100028018, symSize: 0x0 }
+  - { offsetInCU: 0x15D, offset: 0x15D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x52C, symBinAddr: 0x1000034A0, symSize: 0x940 }
+  - { offsetInCU: 0x5AA, offset: 0x5AA, size: 0x8, addend: 0x0, symName: __Z23disable_input_bufferingv, symObjAddr: 0x0, symBinAddr: 0x100002F74, symSize: 0x98 }
+  - { offsetInCU: 0x5D2, offset: 0x5D2, size: 0x8, addend: 0x0, symName: __Z23restore_input_bufferingv, symObjAddr: 0x98, symBinAddr: 0x10000300C, symSize: 0x24 }
+  - { offsetInCU: 0x661, offset: 0x661, size: 0x8, addend: 0x0, symName: __Z9check_keyv, symObjAddr: 0xBC, symBinAddr: 0x100003030, symSize: 0x10C }
+  - { offsetInCU: 0x6E5, offset: 0x6E5, size: 0x8, addend: 0x0, symName: __Z16handle_interrupti, symObjAddr: 0x1C8, symBinAddr: 0x10000313C, symSize: 0x28 }
+  - { offsetInCU: 0x70D, offset: 0x70D, size: 0x8, addend: 0x0, symName: __Z11sign_extendti, symObjAddr: 0x1F0, symBinAddr: 0x100003164, symSize: 0x54 }
+  - { offsetInCU: 0x747, offset: 0x747, size: 0x8, addend: 0x0, symName: __Z12update_flagst, symObjAddr: 0x244, symBinAddr: 0x1000031B8, symSize: 0x90 }
+  - { offsetInCU: 0x76F, offset: 0x76F, size: 0x8, addend: 0x0, symName: __Z6swap16t, symObjAddr: 0x2D4, symBinAddr: 0x100003248, symSize: 0x24 }
+  - { offsetInCU: 0x79B, offset: 0x79B, size: 0x8, addend: 0x0, symName: __Z15read_image_fileP7__sFILE, symObjAddr: 0x2F8, symBinAddr: 0x10000326C, symSize: 0xC4 }
+  - { offsetInCU: 0x7FB, offset: 0x7FB, size: 0x8, addend: 0x0, symName: __Z10read_imagePKc, symObjAddr: 0x3BC, symBinAddr: 0x100003330, symSize: 0x90 }
+  - { offsetInCU: 0x835, offset: 0x835, size: 0x8, addend: 0x0, symName: __Z9mem_writett, symObjAddr: 0x44C, symBinAddr: 0x1000033C0, symSize: 0x30 }
+  - { offsetInCU: 0x86B, offset: 0x86B, size: 0x8, addend: 0x0, symName: __Z8mem_readt, symObjAddr: 0x47C, symBinAddr: 0x1000033F0, symSize: 0xB0 }
+...
